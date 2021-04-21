@@ -56,4 +56,4 @@ This example shows power selected from 3.3V rail from Maximite
 # COM port and flashing jumpers
 Below You can find possible settings of J2 jumper, only 1 mode can be selected at the same time (2 jumpers)
 
-<img src="Images/com.png" width="400">
+<img src="Images/com.png" width="800">
