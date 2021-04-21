@@ -1,6 +1,7 @@
 # CMM2-ExpansionCard-WiFi
-<img src="Images/exp_board_3d.jpg" width="400">
 This card adds wifi functionality, includes USB to RS chip allowing easy flashing and communication with pc
+
+Schematic can be found here: [schematic REV A v03](/Schematic/WiFi_REVA_v02.pdf)
 
 Expansion system and cards can be purchased here: [PS Labs](https://sklep.pslabs.pl/Maximite-c91)
 
