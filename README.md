@@ -37,10 +37,10 @@ Example:
 
 This example shows power selected from 3.3V rail from Maximite
 
-<img src="Images/pow_sel.png" width="800">
+<img src="Images/pow_sel.png" width="400">
 
 # Flashing ESP01 module
-<img src="Images/flash.jpg" width="400">
+<img src="Images/flash.png" width="400">
 
 1. Connect card to expansion system, cards needs to be powered
 2. Install ESP01 module in U2 socket
