@@ -22,6 +22,7 @@ Expansion card have to have edges chamfered, using unchamfered card will result 
 2. Install 2x4 U2 socket
 3. Install USB B J1 socket
 4. Insert ESP01 module to U2 socket
+5. Set COM port using J2 jumper
 
 # Power supply selector
 Use J3 to select from what power source card should be powered:
@@ -42,11 +43,17 @@ This example shows power selected from 3.3V rail from Maximite
 # Flashing ESP01 module
 <img src="Images/flash.png" width="400">
 
-1. Connect card to expansion system, cards needs to be powered
-2. Install ESP01 module in U2 socket
-3. Connect USB A-B cable to PC and card
-4. Find out which COM port is detected by PC
-5. Select COM port in Your flashing tool
-6. Start flash
-7. On WiFi card hold PROG. button and press RESET button while still holding PROG. button
-8. Wait until flash compleats and disconnect card from PC
+1. Set jumpers J2 to flashing mode
+2. Connect card to expansion system, cards needs to be powered
+3. Install ESP01 module in U2 socket
+4. Connect USB A-B cable to PC and card
+5. Find out which COM port is detected by PC
+6. Select COM port in Your flashing tool
+7. Start flash
+8. On WiFi card hold PROG. button and press RESET button while still holding PROG. button
+9. Wait until flash compleats and disconnect card from PC
+
+# COM port and flashing jumpers
+Below You can find possible settings of J2 jumper, only 1 mode can be selected at the same time (2 jumpers)
+
+<img src="Images/com.png" width="400">
