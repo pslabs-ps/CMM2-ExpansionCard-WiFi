@@ -28,7 +28,7 @@ Expansion card have to have edges chamfered, using unchamfered card will result 
 # Power supply selector
 Use J3 to select from what power source card should be powered:
 p3, p4, p7, p8 - p power sources (currently not used)
-pow,m, 3v3 - power from power module card
+pow.m, 3v3 - power from power module card
 syst. 3v3 - power from Maximite
 
 # WARNING!
@@ -52,7 +52,7 @@ This example shows power selected from 3.3V rail from Maximite
 6. Select COM port in Your flashing tool
 7. Start flash
 8. On WiFi card hold PROG. button and press RESET button while still holding PROG. button
-9. Wait until flash compleats and disconnect card from PC
+9. Wait until flash completes and disconnect card from PC
 
 # COM port and flashing jumpers
 Below You can find possible settings of J2 jumper, only 1 mode can be selected at the same time (2 jumpers)
