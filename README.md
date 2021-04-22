@@ -42,6 +42,7 @@ This example shows power selected from 3.3V rail from Maximite
 <img src="Images/pow_sel.png" width="400">
 
 # Flashing ESP01 module
+Most of ESP01 modules available on marked are flashed with firmware. You can change flash new firmware, no additional tools are needed since USB to UART is already build into this card.
 <img src="Images/flash.png" width="400">
 
 1. Set jumpers J2 to flashing mode
